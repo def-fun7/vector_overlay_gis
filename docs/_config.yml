@@ -12,3 +12,4 @@ math: mathjax
 
 # Search settings
 search_enabled: true
+favicon_ico: "assets/gis.ico"
