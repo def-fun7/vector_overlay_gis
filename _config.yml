@@ -1,5 +1,15 @@
-title: Vector Overlay GIS Project
-description: A conceptual guide to GIS vector operations using ArcPy.
-theme: jekyll-theme-cayman # This is a clean, built-in theme
-remote_theme: pages-themes/cayman@v0.2.0
+title: "Vector Overlay GIS"
+description: "A conceptual guide to GIS vector operations using ArcPy.""
+# Theme settings
+remote_theme: just-the-docs/just-the-docs
+
+# Specific Just the Docs settings
+aux_links:
+  "GitHub Repository": "https://github.com/def-fun7/vector_overlay_gis"
+logo: "Vector Overlay Docs"
+heading_anchors: true
 source: docs
+markdown: kramdown
+favicon: ./assets/gis.ico
+kramdown:
+  math_engine: mathjax

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Home
+nav_order: 1
+description: "Welcome to the Vector Overlay technical documentation."
 ---
 
 # Overlay in GIS
