@@ -1,0 +1,4 @@
+title: Vector Overlay GIS Project
+description: A conceptual guide to GIS vector operations using ArcPy.
+theme: jekyll-theme-cayman # This is a clean, built-in theme
+remote_theme: pages-themes/cayman@v0.2.0

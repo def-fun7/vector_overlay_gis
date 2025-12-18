@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Overlay in GIS
 
 In GIS, **Overlay** is defined as ``the process of taking two or more
