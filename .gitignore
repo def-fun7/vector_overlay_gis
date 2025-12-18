@@ -1,0 +1,39 @@
+### ArcGIS Pro ###
+# Project lock files and temporary folders
+*.lock
+.backups/
+ImportLog/
+*.atbx
+GP_Messages/
+**/.mxd.xml
+**/.aprx.xml
+# Don't track the index or thumbnails
+*.itemindex
+Index/
+*.pytxcode
+*.png (if they are auto-generated thumbnails)
+
+### LaTeX ###
+# Core auxiliary files
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+# Bibliography files
+*.bbl
+*.blg
+# Tables/Figures lists
+*.lof
+*.lot
+# PDF output (Optional: comment this out if you WANT to track your PDF)
+main.pdf
+
+### OS / Editors ###
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.code-workspace
