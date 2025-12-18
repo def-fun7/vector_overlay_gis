@@ -13,3 +13,4 @@ markdown: kramdown
 favicon: ./assets/gis.ico
 kramdown:
   math_engine: mathjax
+math: mathjax
