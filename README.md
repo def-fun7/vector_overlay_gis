@@ -107,5 +107,6 @@ git clone https://def-fun7.github.io/vector_overlay_gis/
 cd vector_overlay_gis
 ```
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
