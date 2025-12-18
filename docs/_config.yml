@@ -1,16 +1,14 @@
-title: "Vector Overlay GIS"
-description: "A conceptual guide to GIS vector operations using ArcPy.""
-# Theme settings
+title: Vector Overlay Concepts
+description: Visualizing GIS logic with ArcPy.
 remote_theme: just-the-docs/just-the-docs
 
-# Specific Just the Docs settings
-aux_links:
-  "GitHub Repository": "https://github.com/def-fun7/vector_overlay_gis"
-logo: "Vector Overlay Docs"
-heading_anchors: true
-source: docs
-markdown: kramdown
-favicon: ./assets/gis.ico
-kramdown:
-  math_engine: mathjax
+# Navigation Settings
+nav_external_links:
+  - title: GitHub Repo
+    url: https://github.com/def-fun7/vector_overlay_gis
+
+# Enable Math
 math: mathjax
+
+# Search settings
+search_enabled: true
