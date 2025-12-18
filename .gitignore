@@ -5,6 +5,8 @@
 ImportLog/
 *.atbx
 GP_Messages/
+GpMessages/
+
 **/.mxd.xml
 **/.aprx.xml
 # Don't track the index or thumbnails
@@ -37,3 +39,14 @@ Thumbs.db
 .vscode/
 .idea/
 *.code-workspace
+
+.ipynb_checkpoints/
+
+# --- ArcGIS Mobile GDB Temp Files ---
+*.geodatabase-conch
+*.geodatabase-wal
+*.geodatabase-shm
+
+# --- Standard ArcGIS Locks ---
+*.lock
+*.gdb/
