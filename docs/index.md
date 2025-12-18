@@ -19,19 +19,6 @@ a composite map by combining the geometry and attributes of the
 input datasets. Tools are available in most GIS software for
 overlaying both vector or raster data.
 
-This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
-
-## Math Test
-
-Inline: $E = mc^2$
-
-Block:
-$$
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq
-\left( \sum_{k=1}^n a_k^2 \right)
-\left( \sum_{k=1}^n b_k^2 \right)
-$$
-
 For more:
 
 [01.Union](./md/01.Union.md)
