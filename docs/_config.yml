@@ -7,8 +7,11 @@ nav_external_links:
   - title: GitHub Repo
     url: https://github.com/def-fun7/vector_overlay_gis
 
-# Enable Math
-math: mathjax
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
 
 # Search settings
 search_enabled: true
