@@ -1,5 +1,11 @@
 # 🗺️ Vector Overlay in GIS
 
+[![Deploy Jekyll with Just the Docs theme](https://github.com/def-fun7/vector_overlay_gis/actions/workflows/jekyll.yml/badge.svg)](https://github.com/def-fun7/vector_overlay_gis/actions/workflows/jekyll.yml)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-2ea44f?logo=github)](https://<your-username>.github.io/<your-repo-name>/)
+[![ArcPy](https://img.shields.io/badge/ArcPy-ESRI%20ArcGIS-green)](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)
+[![Docs: Just the Docs](https://img.shields.io/badge/Docs-Just%20the%20Docs-lightgrey)](https://just-the-docs.github.io/just-the-docs/)
+[![Jekyll](https://img.shields.io/badge/Built%20with-Jekyll-blueviolet?logo=jekyll)](https://jekyllrb.com/)
+
 **Vector Overlay in GIS** repository, contains, two main things.
 
 - ArcGIS Pro Project
